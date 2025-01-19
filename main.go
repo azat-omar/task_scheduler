@@ -9,10 +9,10 @@ import (
 	"github.com/joho/godotenv"
 	_ "github.com/mattn/go-sqlite3"
 
-	dba "go_final_project/dba"
-	"go_final_project/handlers"
-	"go_final_project/repo"
-	"go_final_project/service"
+	dba "task_scheduler/dba"
+	"task_scheduler/handlers"
+	"task_scheduler/repo"
+	"task_scheduler/service"
 )
 
 const webDir = "./web"

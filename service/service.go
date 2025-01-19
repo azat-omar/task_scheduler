@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"time"
 
-	"go_final_project/dates"
-	"go_final_project/models"
-	"go_final_project/repo"
+	"task_scheduler/dates"
+	"task_scheduler/models"
+	"task_scheduler/repo"
 )
 
 type TaskService struct {

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"go_final_project/models"
-	"go_final_project/service"
+	"task_scheduler/models"
+	"task_scheduler/service"
 )
 
 type TaskHandler struct {
